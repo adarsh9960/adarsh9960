@@ -66,14 +66,14 @@
 
 ## 📊 GitHub Stats
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh9960\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
 
 * 🌐 Website: https://itzadarsh.co.in
-* 📸 Instagram: https://instagram.com/adarsh.2004_
+* 📸 Instagram: https://instagram.com/itzadarsh.dev
 * 🎥 YouTube: https://youtube.com/@ITZAdarsh
 
 ---
