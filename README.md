@@ -70,7 +70,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh9960&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=adarsh9960&theme=tokyonight)
 
 ---
 
